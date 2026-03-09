@@ -1,0 +1,6 @@
+Day 1: Financial Data Acquisition & Smoothing
+Objective: Establish a pipeline to pull live NSE data.
+
+Tools: Python, yfinance, pandas.
+
+Key Insight: Implemented a 20-day Moving Average on Reliance Industries (RELIANCE.NS). Observed that the 20-day MA acts as a support level during the mid-2025 bullish trend.
