@@ -1,6 +1,11 @@
-Day 1: Financial Data Acquisition & Smoothing
-Objective: Establish a pipeline to pull live NSE data.
+# Quant Journey 2026 📈
+Quant Finance & ML through daily project-based learning.
 
-Tools: Python, yfinance, pandas.
+| Day | Project | Core Concepts | Status |
+| :--- | :--- | :--- | :--- |
+| 01 | [Moving Averages]() | yfinance, Pandas, Smoothing | ✅ Complete |
+| 02 | [Statistical Anomalies]() | Z-Scores, Log Returns | ✅ Complete |
 
-Key Insight: Implemented a 20-day Moving Average on Reliance Industries (RELIANCE.NS). Observed that the 20-day MA acts as a support level during the mid-2025 bullish trend.
+## Setup
+```bash
+pip install yfinance pandas matplotlib numpy
