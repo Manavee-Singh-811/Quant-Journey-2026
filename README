@@ -3,7 +3,7 @@ Quant Finance & ML through daily project-based learning.
 
 | Day | Project | Core Concepts | Status |
 | :--- | :--- | :--- | :--- |
-| 01 | [Moving Averages]() | yfinance, Pandas, Smoothing | ✅ Complete |
+| 01 | [Moving Averages]( notebooks/Day_01_Plotting_Moving_Averages.ipynb) | yfinance, Pandas, Smoothing | ✅ Complete |
 | 02 | [Statistical Anomalies]() | Z-Scores, Log Returns | ✅ Complete |
 
 ## Setup
