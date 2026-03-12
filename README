@@ -5,6 +5,7 @@ Quant Finance & ML through daily project-based learning.
 | :--- | :--- | :--- | :--- |
 | 01 | [Moving Averages]( notebooks/Day_01_Plotting_Moving_Averages.ipynb) | yfinance, Pandas, Smoothing | ✅ Complete |
 | 02 | [Statistical Anomalies](notebooks/Day_02_Statistical_Anomalies.ipynb) | Z-Scores, Log Returns | ✅ Complete |
+| 03 | [Stationary Test](notebooks/Day_03_Stationarity_ADF.ipynb) | ADF Test, p-values, Log Returns | ✅ Complete |
 
 ## Setup
 ```bash
